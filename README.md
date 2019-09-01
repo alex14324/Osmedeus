@@ -40,14 +40,6 @@ This install only focus on Kali linux, check more install on [Wiki page](https:/
 - [x] React [Web UI](https://github.com/j3ssie/Osmedeus/wiki/Web-UI).
 - [x] Support Continuous Scan.
 - [x] Slack notifications.
-- [x] Easily view [report](https://github.com/j3ssie/Osmedeus/wiki/report) from commnad line.
-
-Check this [Wiki page](https://github.com/j3ssie/Osmedeus/wiki/Module-In-Depth) for more detail about each module.
-
-## Love Osmedeus? Back it!
-
-[![Backers](https://opencollective.com/osmedeus/backers.svg?width=890)](https://opencollective.com/osmedeus#backers)
-
 
 ## Demo
 [![asciicast](https://asciinema.org/a/230164.svg)](https://asciinema.org/a/230164)
