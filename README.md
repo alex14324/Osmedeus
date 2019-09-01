@@ -1,13 +1,3 @@
-<p align="center">
-  <img alt="Osmedeus" src="https://image.flaticon.com/icons/svg/108/108669.svg" height="140" />
-  <p align="center">
-    <a href="https://github.com/j3ssie/Osmedeus"><img alt="python" src="https://img.shields.io/badge/python-3.6%2B-blue.svg"></a>
-    <a href=""><img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
-    <a href=""><img alt="tested" src="https://img.shields.io/badge/tested-Kali%20Linux-green.svg"></a>
-    <a href="https://github.com/j3ssie/Osmedeus"><img alt="Release" src="https://img.shields.io/badge/version-1.5-red.svg"></a>
-    <a href="https://www.youtube.com/watch?v=kZ-uMC7c5OY&list=PLqpLl_iGMLnA6vbi1ZM-HmWLuedIP2PJl"><img alt="Demo" src="https://img.shields.io/badge/demo-youtube-blue.svg"></a>
-  </p>
-</p>
 
 ## What is Osmedeus?
 
@@ -18,7 +8,7 @@ Osmedeus allows you automated run the collection of awesome tools to reconnaissa
 ## Installation
 
 ```
-git clone https://github.com/j3ssie/Osmedeus
+git clone https://github.com/alex14324/Osmedeus.git
 cd Osmedeus
 ./install.sh
 ```
@@ -27,15 +17,9 @@ This install only focus on Kali linux, check more install on [Wiki page](https:/
 
 ## How to use
 
-If you have no idea what are you doing just type the command below or check out the [Advanced Usage](https://github.com/j3ssie/Osmedeus/wiki/Advanced-Usage)
 ```
 ./osmedeus.py -t example.com
 ```
-
-## Using Docker
-
-Check out [docker-osmedeus](https://github.com/mablanco/docker-osmedeus) by [mabnavarrete](https://twitter.com/mabnavarrete) for docker installation and this [wiki](https://github.com/j3ssie/Osmedeus/wiki/Using-Docker) for more detail.
-
 ## Features
 
 - [x] Subdomain Scan.
@@ -173,17 +157,3 @@ I'm just put all the pieces together, plus some extra magic.
 
 This tool is for educational purposes only. You are responsible for your own actions. If you mess something up or break any laws while using this software, it's your fault, and your fault only.
 
-## Contribute
-
-Please take a look at [CONTRIBUTING.md](https://github.com/j3ssie/Osmedeus/blob/master/CONTRIBUTING.md)
-
-## Changelog
-
-Please take a look at [CHANGELOG.md](https://github.com/j3ssie/Osmedeus/blob/master/CHANGELOG.md)
-
-## CREDITS
-
-Please take a look at [CREDITS.md](https://github.com/j3ssie/Osmedeus/blob/master/CREDITS.md)
-
-## Contact
-[@j3ssiejjj](https://twitter.com/j3ssiejjj)
